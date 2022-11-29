@@ -1,4 +1,4 @@
-![handfarm](./img_src/handfarmLogo.png)
+![image](https://user-images.githubusercontent.com/98148597/204467247-794137a5-0a11-4939-a32e-701aaa975fb2.png)
 
 
 <div style="justify-content : center;">
