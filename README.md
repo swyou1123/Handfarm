@@ -1,7 +1,8 @@
-![handfarm](https://lab.ssafy.com/s07-final/S07P31C101/uploads/851b1f25faeb754ac19c29854951e127/image.png)
+![handfarm](./img_src/handfarmLogo.png)
 
-<div align="center">
-  <h1>~~내 손안의 작은 농장 핸드팜~~</h1>
+
+<div style="justify-content : center;">
+  <h4>누구나 쉽고 편리하게 농장을 관리할 수 있는 스마트팜 플랫폼 "핸드팜"</h4>
 </div>
 
 
@@ -19,24 +20,15 @@
 9. [**프로젝트 기간**](#-프로젝트-기간)
 10. [**프로젝트 관련 문서**](#-프로젝트-관련-문서)
 
-
-
-<br/>
-
-
-
+<br></br>
 <div id="1"></div>
 
  ## ✨ 서비스 소개
 
 #### 홈파밍과 스마트팜의 만남! 🍓🖥
 
-> 최근 코로나 19의 여파로 생긴 답답함을 풀기 위해 집 안이나 근처 텃밭에서 작은 농장을 일구는 이른바 **홈파밍**으로 불리는 산업기 급성장하고 있습니다.<br />
->
-> 또한 올해 8월 폭우 피해로 한달 새 채소의 가격이 17%정도 상승하였고 그로 인해 홈파밍이 더욱 열풍하고 있는 추세입니다.<br />
->
->
-> 이러한 "홈파밍"을 더욱 편리하게 관리할 수 있도록, **"스마트 팜"** 기술을 도입하였습니다.
+> 전문농업인이나 기업단위에서만 사용되는 기술인 스마트팜. **Modularization**을 통해 경제적으로 개인이 필요한 센서들을 선택할 수 있고 Node또한 추가할 수 있습니다. **Auto-Control**를 통해 편리성 및 안정성을 추구합니다. MQTT프로토콜을 이용해 **실시간**으로 내농장을 상태를 확인할 수도 있으며, **Farmunity**를 통해 자유로운 소통이 가능합니다.<br />
+> 누구나 쉽고, 저렴한 가격으로 작은 식물부터 농장까지 관리가 가능한 **스마트팜 플랫폼**을 구현하였습니다.<br />
 
 <br />
 
@@ -45,15 +37,9 @@
 ##### 작은 규모인 개인 화분부터, 농장 단위까지 작물 재배를 스마트하게 하고 싶은 사람이라면 누구나 쉽고 편리하게 사용할 수 있는 HandFarm을 사용해보세요!
 
 </br>
-
 </br>
-
-
-
 <div id="2"></div>
-
 ## 🛠️ 기술 스택
-
 <img src="https://img.shields.io/badge/Java-010101?style=for-the-badge&logo=java&logoColor=#007396"/> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kakao Api -000000?style=for-the-badge&logo=Kakao&logoColor=white"/>
@@ -135,7 +121,7 @@
         └─com
             └─handfarm
                 └─backend          # 테스트 코드 작성 폴더
-```
+ ```
 
 #### Frontend 디렉토리 구조
 
@@ -176,11 +162,11 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/3ea01dfe60d17bb50af40dff911fb7da/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/3ea01dfe60d17bb50af40dff911fb7da/image.png" width =180 >
         </div> 
         </td>
         <td>
-            <img src= "https://lab.ssafy.com/s07-final/S07P31C101/uploads/4545f44b72f75995c83158bb70c1de77/image.png" width = 200>
+            <img src= "https://lab.ssafy.com/s07-final/S07P31C101/uploads/4545f44b72f75995c83158bb70c1de77/image.png" width = 180>
         </td>
         <td>
              ✔ 로그인 기능을 카카오 소셜 로그인 을 사용하여 기능을 구현하였습니다. <br><br>
@@ -214,11 +200,11 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/682d23b8cfd06462a31c48dfabf6e91a/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/682d23b8cfd06462a31c48dfabf6e91a/image.png" width =140 >
         </div> 
         </td>
         <td>
-            <img src= "https://lab.ssafy.com/s07-final/S07P31C101/uploads/bffd225d7b8acb161684bf7d8691e511/image.png" width = 200>
+            <img src= "./img_src/mini_tomatoes.png" width = 140>
         </td>
         <td>
              ✔ 핸드팜의 커뮤니티 공간인 파뮤니티 메인 페이지 입니다.<br>   분류 카테고리로 정보 공유, 지역 게시판 으로 분리되며<br>  클릭시 해당 커뮤니티 페이지로 이동합니다. <br><br>
@@ -233,11 +219,11 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/89863a0a5af0ebae84f78d3e9027eea0/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/89863a0a5af0ebae84f78d3e9027eea0/image.png" width =210>
         </div> 
         </td>
         <td>
-            <img src= "https://lab.ssafy.com/s07-final/S07P31C101/uploads/ad371225fb8fefebe3e15be8dc1a0e8c/image.png" width = 200>
+            <img src= "https://lab.ssafy.com/s07-final/S07P31C101/uploads/ad371225fb8fefebe3e15be8dc1a0e8c/image.png" width = 210>
         </td>
         <td>
              ✔ 지역 게시판 페이지입니다. <br> 여러 지역중 원하는 태그를 선택하여 해당 지역의 커뮤니티 사용할 수 있습니다. <br> 게시글을 읽을 수 있고 작성 또한 기능 구현을 했습니다. <br><br>
@@ -252,12 +238,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/8cf9472ff3cfd4f289792bde345b1260/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/8cf9472ff3cfd4f289792bde345b1260/image.png" width =220 >
         </div>
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/295f378c4e8ff068260d8cddd236effe/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/295f378c4e8ff068260d8cddd236effe/image.png" width =220 >
         </div> 
         </td>
         <td>
@@ -274,12 +260,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/f80b419408ca2e75370a74cb00d2e6a3/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/f80b419408ca2e75370a74cb00d2e6a3/image.png" width =230 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/715816e43741f78ec5f228925f948826/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/715816e43741f78ec5f228925f948826/image.png" width =230 >
         </div> 
         </td>
         <td>
@@ -297,12 +283,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/4340eb51097fa9d8f2c272ab381e66f3/image.png" width =200 >
+            <img src="./img_src/copy.png" width =330 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/994fc3c1ebe378f083756366ffa8f7fe/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/994fc3c1ebe378f083756366ffa8f7fe/image.png" width =330 >
         </div> 
         </td>
         <td>
@@ -320,12 +306,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/426aac087f6c535b7b6a737f9bb7eee4/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/426aac087f6c535b7b6a737f9bb7eee4/image.png" width =180 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/994fc3c1ebe378f083756366ffa8f7fe/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/994fc3c1ebe378f083756366ffa8f7fe/image.png" width =180 >
         </div> 
         </td>
         <td>
@@ -342,12 +328,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/93dc211d62d415706aed5a7c55cc246f/image.png" width =200 >
+            <img src="./img_src/myfarm_main.png" width =160 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/28e5f096f50809a6b5d5747d7b218658/image.png" width =200 >
+            <img src="./img_src/myfarm_camera.png" width =160 >
         </div> 
         </td>
         <td>
@@ -364,12 +350,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/cd84c8ee960ef94660590676ef181b63/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/cd84c8ee960ef94660590676ef181b63/image.png" width =190 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/6343e7a0231007254506d60665ff743a/image.png" width =200 >
+            <img src="https://lab.ssafy.com/s07-bigdata-recom-sub2/S07P22C105/uploads/6343e7a0231007254506d60665ff743a/image.png" width =190 >
         </div> 
         </td>
         <td>
@@ -383,24 +369,77 @@
 ## 🎛️ 디바이스 주요기능
 
 ### 0. 디바이스 이미지
+#### <정면도>
+<img src="./img_src/hw_front.jpg" width="709" height="399"/>
 
-<img src="https://user-images.githubusercontent.com/62362910/185401544-c46a1400-b708-4692-b073-763319dff4d5.jpg" width="332" height="591"/>
-<img src="https://user-images.githubusercontent.com/62362910/185401559-8cf49a38-1c31-4aa7-aeef-21b36b11c1f6.jpg" width="443" height="591"/>
+#### <우측면도>
+<img src="./img_src/hw_side.jpg" width="709" height="410"/>
 
-###  1. 투입구 개폐
+#### <평면도>
+<img src="./img_src/hw_up.jpg" width="709" height="410"/>
 
-![open](https://user-images.githubusercontent.com/62362910/185402118-2ff660ec-4d82-4f81-9815-bf741753b6cb.gif)
+<br/>
 
-- 사용자가 디바이스 상단에 위치한 QR코드를 인식합니다. 사용자 인것이 DB측과의 지속적인 GET요청을 통하여 확인이 되면 내부의 모터가 작동하며 투입구와 내부 덮개가 열리게 됩니다. 이후 담배 인식이 되면 개폐구는 닫히게 됩니다.
+###  1. Modularization
+</br>
 
-###  2. 담배 인식 및 판별
+#### Modularization Sensor
+##### <CO2 센서 연결 및 해제>
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/modularization_1.gif" width="450
+    " height="300"/>
+    <img src="./img_src/modularization_1_1.gif" width="300" height="=600"/>
+</div>
+<br/>
 
-![sensor](https://user-images.githubusercontent.com/62362910/185403878-708ea2cc-fd23-4dfe-be75-847c29a625bb.png)
+##### <미세먼지 센서 연결 및 해제>
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/modularization_2.gif" width="450
+    " height="300"/>
+    <img src="./img_src/modularization_2_1.gif" width="300" height="=600"/>
+</div>
 
-- 인식부에서는 CDS 조도 센서를 사용하여, 물체가 입구를 통과 할 경우 낮아지는 조도량을 측정하여 
-물체 통과를 인식합니다. 인식되지 않을경우 5초후 다음 과정은 생략됩니다.
-- 판별부에서는 정확도를 높이기 위해 3가지 센서를 사용하여 담배인지 아닌지를 판별합니다. 
-- 비접촉 온도센서에서는 적정 설정온도를, 가스 센서에서는 일정량 이상의 가스를, 공기질 센서에서는 미세먼지 량을 측정하여 3가지 판별 프로세스 중 하나라도 통과하면 담배로 인식됩니다. 
+- I2C 통신을 통해 각각의 센서의 연결여부를 판단합니다. 해당 센서가 연결되지 않았을경우 UI에서의 블러 처리를 통해 사용자에게 알려주고 연결된 센서만 UI에 표시해줍니다.
+</br>
+
+#### Modularization Node
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/modularization_3.gif" width="250" height="350" style="transform:rotate(90deg);"/>
+</div>
+
+- "농장 추가하기"를 통해 새로운 노드(디바이스)를 손쉽게 추가할 수 있습니다. 이를 통해 무한한 확장성을 제공합니다.
+</br>
+
+###  2. Auto Control
+</br>
+
+#### 제어장치 종류
+![sensor](./img_src/autoControl.png)
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/peltier.jpg" width="400" height="400" />
+</div>
+- 펠티어 효과를 이용하여 Heater, Cooler를 구성 & 뜨거운 공기는 위로올라가는 특성을 고려하여 Heater 부분은 온실내 아래로 위치, 차가운 공기는 아래로 가라앉는 특성을 고려 Cooler 부분은 온실내 위로 위치. 
+- 생장 LED (R:4 B:1)을 이용하여 작물의 성장을 촉진. 
+- 햇빛이 강해지면 작물의 광합성으로 인해 온실내 이산화탄소양이 부족해지는 것을 고려하여 유동팬 2개를 설치.
+</br>
+
+#### 제어값 변경
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/default_setting_1.gif" width="250" height="500"/>
+    <img src="./img_src/blank.png" width="70" height="=550"/>
+    <img src="./img_src/manual_setting_1.gif" width="255" height="=550"/>
+</div>
+(왼쪽부터 "작물별 default 값 설정"         "작물별 자동값 설정")
+- 작물별 최적의 제어값을 default 값으로 설정되어있음
+- 사용자가 이 값을 변경할 수 있음
+</br>
+
+#### 제어모습
+<div style="display : flex; justify-content : center; align-items : center">
+    <img src="./img_src/heater_working_1.gif" width="250" height="250"/>
+    <img src="./img_src/cooler_working_1.gif" width="250" height="=250"/>
+</div>
+
 
 ###  3. 담배 분쇄
 
@@ -519,5 +558,4 @@
 | 외부서비스 정보 | [외부서비스 정보 바로가기](/exec/02_광주_1반_C101_외부_서비스_정보.pdf) |
 | 시연 시나리오   | [시연 시나리오 바로가기](/exec/07_광주_1반_시연시나리오.pdf) |
 | 발표자료        | [발표자료 바로가기](https://drive.google.com/file/d/12lOU1-kJ9XMx_7HsXzjGJ9VWt4gaxyYJ/view) |
-
 
