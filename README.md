@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98148597/204467247-794137a5-0a11-4939-a32e-701aaa975fb2.png)
+![image](https://user-images.githubusercontent.com/98148597/204467360-7fef2b65-7330-410d-95d1-9aa8fe4f24ca.png)
 
 
 <div style="justify-content : center;">
@@ -204,7 +204,7 @@
         </div> 
         </td>
         <td>
-            <img src= "./img_src/mini_tomatoes.png" width = 140>
+            <img src= "https://user-images.githubusercontent.com/98148597/204467486-2a72598d-4472-4b39-8409-816dba582382.png" width = 140>
         </td>
         <td>
              ✔ 핸드팜의 커뮤니티 공간인 파뮤니티 메인 페이지 입니다.<br>   분류 카테고리로 정보 공유, 지역 게시판 으로 분리되며<br>  클릭시 해당 커뮤니티 페이지로 이동합니다. <br><br>
@@ -283,7 +283,7 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="./img_src/copy.png" width =330 >
+            <img src="https://user-images.githubusercontent.com/98148597/204467603-4586c021-d773-4286-a69c-75ac386de785.png" width =330 >
         </div> 
         </td>
         <td>
@@ -328,12 +328,12 @@
     <tr>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="./img_src/myfarm_main.png" width =160 >
+            <img src="https://user-images.githubusercontent.com/98148597/204467703-10e6da24-3724-4c0f-94f3-ba1f0031f9f1.png" width =160 >
         </div> 
         </td>
         <td>
         <div style="display : flex; justify-content : center;">
-            <img src="./img_src/myfarm_camera.png" width =160 >
+            <img src="https://user-images.githubusercontent.com/98148597/204467714-c3c608a2-2e7c-421d-8ac9-f69814318d3b.png" width =160 >
         </div> 
         </td>
         <td>
@@ -370,13 +370,13 @@
 
 ### 0. 디바이스 이미지
 #### <정면도>
-<img src="./img_src/hw_front.jpg" width="709" height="399"/>
+<img src="https://user-images.githubusercontent.com/98148597/204467856-8690c886-c036-4ba9-aeb3-5eff1459b7ac.png" width="709" height="399"/>
 
 #### <우측면도>
-<img src="./img_src/hw_side.jpg" width="709" height="410"/>
+<img src="https://user-images.githubusercontent.com/98148597/204467882-d360d973-54fc-48fb-b61e-33bbbf164cd6.png" width="709" height="410"/>
 
 #### <평면도>
-<img src="./img_src/hw_up.jpg" width="709" height="410"/>
+<img src="https://user-images.githubusercontent.com/98148597/204467907-07968c9f-adfb-475b-aaad-3a5d0c6c47d3.png" width="709" height="410"/>
 
 <br/>
 
@@ -386,17 +386,17 @@
 #### Modularization Sensor
 ##### <CO2 센서 연결 및 해제>
 <div style="display : flex; justify-content : center; align-items : center">
-    <img src="./img_src/modularization_1.gif" width="450
+    <img src="https://user-images.githubusercontent.com/98148597/204468043-ceb74c88-f476-43a5-9b78-233aed4d7b1e.png" width="450
     " height="300"/>
-    <img src="./img_src/modularization_1_1.gif" width="300" height="=600"/>
+    <img src="https://user-images.githubusercontent.com/98148597/204468095-14c712d6-ba53-40cc-a3a7-cb3b8452347a.png" width="300" height="=600"/>
 </div>
 <br/>
 
 ##### <미세먼지 센서 연결 및 해제>
 <div style="display : flex; justify-content : center; align-items : center">
-    <img src="./img_src/modularization_2.gif" width="450
+    <img src="https://user-images.githubusercontent.com/98148597/204468179-530eb936-8b7b-4346-be12-f358113f0b6a.png" width="450
     " height="300"/>
-    <img src="./img_src/modularization_2_1.gif" width="300" height="=600"/>
+    <img src="https://user-images.githubusercontent.com/98148597/204468202-107828e5-a41c-4af3-8e0e-1d651ade3acf.png" width="300" height="=600"/>
 </div>
 
 - I2C 통신을 통해 각각의 센서의 연결여부를 판단합니다. 해당 센서가 연결되지 않았을경우 UI에서의 블러 처리를 통해 사용자에게 알려주고 연결된 센서만 UI에 표시해줍니다.
@@ -404,7 +404,7 @@
 
 #### Modularization Node
 <div style="display : flex; justify-content : center; align-items : center">
-    <img src="./img_src/modularization_3.gif" width="250" height="350" style="transform:rotate(90deg);"/>
+    <img src="https://user-images.githubusercontent.com/98148597/204468300-44389f23-bfa0-4d61-ac78-ec8347cca093.png" width="250" height="350" style="transform:rotate(90deg);"/>
 </div>
 
 - "농장 추가하기"를 통해 새로운 노드(디바이스)를 손쉽게 추가할 수 있습니다. 이를 통해 무한한 확장성을 제공합니다.
@@ -414,9 +414,9 @@
 </br>
 
 #### 제어장치 종류
-![sensor](./img_src/autoControl.png)
+![image](https://user-images.githubusercontent.com/98148597/204468401-7d6b1640-808a-4347-aaf0-60ad4f516b32.png)
 <div style="display : flex; justify-content : center; align-items : center">
-    <img src="./img_src/peltier.jpg" width="400" height="400" />
+    <img src="https://user-images.githubusercontent.com/98148597/204468435-e22df9c6-3fce-49e5-b57a-2f842a8eb6ba.png" width="400" height="400" />
 </div>
 - 펠티어 효과를 이용하여 Heater, Cooler를 구성 & 뜨거운 공기는 위로올라가는 특성을 고려하여 Heater 부분은 온실내 아래로 위치, 차가운 공기는 아래로 가라앉는 특성을 고려 Cooler 부분은 온실내 위로 위치. 
 - 생장 LED (R:4 B:1)을 이용하여 작물의 성장을 촉진. 
