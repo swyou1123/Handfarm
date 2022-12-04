@@ -512,9 +512,9 @@
         <td height="140px" align="center"> <a href="https://github.com/dm0114">
             <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/8c5958afd712c26c7a4508288fad2d89/image.png" width="140px" /> <br><br> 😆 김혜진 <br>Back-End </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/swyou1123">
-            <img src="https://user-images.githubusercontent.com/97595340/184631762-20bf666d-aa58-4238-9e93-370f45919628.PNG" width="140px" /> <br><br> 😁 유승우 <br>(Back-End) </a> <br></td>
+            <img src="https://user-images.githubusercontent.com/97595340/184631762-20bf666d-aa58-4238-9e93-370f45919628.PNG" width="140px" /> <br><br> 😁 유승우 <br>Back-End </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/yoonseonghan">
-            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/bae458f75ffbe11b69c35f93124ea6f8/image.png" width="140px" /> <br><br> 🙄 정석호 <br>(Front-End) </a> <br></td>
+            <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/bae458f75ffbe11b69c35f93124ea6f8/image.png" width="140px" /> <br><br> 🙄 정석호 <br>Front-End </a> <br></td>
     </tr>
     <tr>
         <td align="center">Firmware<br/>3D Modeling</td>
