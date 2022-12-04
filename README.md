@@ -508,7 +508,7 @@
         <td height="140px" align="center"> <a href="https://github.com/Owenkim9720">
             <img src="https://user-images.githubusercontent.com/97595340/184632028-dec1cfd0-eb4e-4044-af95-f09376b13f9c.jpg" width="140px" /> <br><br> 👑 김도원 <br>Embedded </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kiki249049">
-            <br><img src="https://user-images.githubusercontent.com/97595340/184632031-f03361a4-9af9-4e51-82c1-d90e1e96d40e.jpg" width="140px" /> <br><br> 🙂 김강현 <br>Back-End<br>Front-End </a> <br></td>
+            <br><img src="https://user-images.githubusercontent.com/97595340/184632031-f03361a4-9af9-4e51-82c1-d90e1e96d40e.jpg" width="140px" /> <br><br> 🙂 김강현 <br>Front-End </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/dm0114">
             <img src="https://lab.ssafy.com/s07-final/S07P31C101/uploads/8c5958afd712c26c7a4508288fad2d89/image.png" width="140px" /> <br><br> 😆 김혜진 <br>Back-End </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/swyou1123">
@@ -518,8 +518,8 @@
     </tr>
     <tr>
         <td align="center">Firmware<br/>3D Modeling</td>
-        <td align="center">UI/UX<br/>REST API</td>
-        <td align="center">REST API<br/>CI/CD</td>
+        <td align="center">UI/UX</td>
+        <td align="center">REST API</td>
         <td align="center">REST API<br/>CI/CD<br/>Infra<br/></td>
         <td align="center">UI/UX<br/>React</td>
     </tr>
